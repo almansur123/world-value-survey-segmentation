@@ -1,0 +1,2 @@
+# world-value-survey-segmentation
+ This project segments World Values Survey (WVS) data using clustering techniques like MiniBatch K-Means and DBSCAN to identify distinct population groups based on socioeconomic and demographic factors. The analysis involves data preprocessing, dimensionality reduction, clustering evaluation, and visualization, providing sociological insights and comparisons with global benchmarks.
